@@ -1,3 +1,6 @@
 site_name: Documenation ADES (Active Directory Enhanced System)
+use_directory_urls: true
+strict: true
+
 theme:
   name: material
